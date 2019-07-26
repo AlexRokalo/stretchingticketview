@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StretchingTicketView</string>
+
+    <!-- Read More -->
+    <string name="read_more">show more</string>
+    <string name="read_less">show less</string>
+
+
+    <string name="fact_title">What is stretching? How to stretch properly? When to stretch?</string>
+    <string name="link_values">https://stretchcoach.com/articles/how-to-stretch/</string>
+</resources>

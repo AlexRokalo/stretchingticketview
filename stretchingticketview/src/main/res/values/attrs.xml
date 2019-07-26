@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StretchingTicketView">
+        <attr name="tv_anchor1" format="reference" />
+        <attr name="tv_anchor2" format="reference" />
+        <attr name="tv_parent" format="reference" />
+        <attr name="tv_borderColor" format="color" />
+        <attr name="tv_dashColor" format="color" />
+        <attr name="tv_dashSize" format="dimension" />
+        <attr name="tv_circleSpace" format="dimension" />
+        <attr name="tv_circleRadius" format="dimension" />
+    </declare-styleable>
+
+</resources>
